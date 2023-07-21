@@ -7,7 +7,7 @@ body {
   }
   
   header {
-    background-color: #afd3a7;
+    background-color: #9B3D49;
     color: #fff;
     padding: 10px;
   }
@@ -42,7 +42,7 @@ body {
   }
 
    footer {
-      background-color: #722F37;
+      background-color: #B14653;
       padding: 20px;
       text-align: center;
     }
@@ -83,7 +83,7 @@ body {
 .header-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    background-color: #722F37;
+    background-color: #85353E;
     padding: 20px;
 }
 
