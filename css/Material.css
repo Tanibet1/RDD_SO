@@ -136,6 +136,181 @@ body {
 
 
 
+/*Estilos para el contenedor de informacion de la pagina tema-1-1.html*/
+
+.contenedor-tema-1-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px; /* Margen de separación ligero */
+  border: 1px solid #ccc; /* Borde para distinguir el contenedor */
+  background-color: lightblue;
+}
+
+/* Estilos para la caja del título */
+.caja-titulo1-tema-1-1 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+  background-color: skyblue;
+}
+
+/* Estilos para la caja de texto */
+.caja-texto1-tema-1-1 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+}
+
+
+
+/* Estilos para la caja del título */
+.caja-titulo2-tema-1-1 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+  background-color: skyblue;
+}
+
+/* Estilos para la caja de texto */
+.caja-texto2-tema-1-1 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+}
+
+
+
+/* Estilos para la caja del título */
+.caja-titulo3-tema-1-1 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+  background-color: skyblue;
+}
+
+/* Estilos para la caja de texto */
+.caja-texto3-tema-1-1{
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+}
+
+
+
+
+/* Estilos para la caja del título */
+.caja-titulo4-tema-1-1 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+  background-color: skyblue;
+}
+
+/* Estilos para la caja de texto */
+.caja-texto4-tema-1-1{
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+}
+
+
+
+/* Estilos para la caja del título */
+.caja-titulo5-tema-1-1 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+  background-color: skyblue;
+}
+
+/* Estilos para la caja de texto */
+.caja-texto5-tema-1-1{
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+}
+
+
+
+
+
+/*Estilos para el contenedor de informacion de la pagina tema-1-1-2.html*/
+
+.contenedor-tema-1-1-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px; /* Margen de separación ligero */
+  border: 1px solid #ccc; /* Borde para distinguir el contenedor */
+  background-color: lightblue;
+}
+
+/* Estilos para la caja del título */
+.caja-titulo1-tema-1-1-2 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+  background-color: skyblue;
+}
+
+/* Estilos para la caja de texto */
+.caja-texto1-tema-1-1-2 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+}
+
+
+
+
+
+/*Estilos para el contenedor de informacion de la pagina tema-1-1-3.html*/
+
+.contenedor-tema-1-1-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px; /* Margen de separación ligero */
+  border: 1px solid #ccc; /* Borde para distinguir el contenedor */
+  background-color: lightblue;
+}
+
+/* Estilos para la caja del título */
+.caja-titulo1-tema-1-1-3 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+  background-color: skyblue;
+}
+
+/* Estilos para la caja de texto */
+.caja-texto1-tema-1-1-3 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Estilos para la caja del título */
+.caja-titulo2-tema-1-1 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+  background-color: skyblue;
+}
+
+/* Estilos para la caja de texto */
+.caja-texto2-tema-1-1 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+}
+
+
+
+/* Estilos para la caja del título */
+.caja-titulo3-tema-1-1 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+  background-color: skyblue;
+}
+
+/* Estilos para la caja de texto */
+.caja-texto3-tema-1-1 {
+  padding: 10px; /* Espacio interno para mejorar apariencia */
+}
+
+
+
+
+
+
+
+
+
 
 
 
