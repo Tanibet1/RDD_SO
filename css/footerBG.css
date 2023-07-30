@@ -1,0 +1,6 @@
+.footerBG{
+	background: rgb(150,55,55);
+	background: linear-gradient(180deg, rgba(150,55,55,1) 0%, rgba(57,16,16,1) 100%);
+	text-align: center;
+	color: white;
+}

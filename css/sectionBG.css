@@ -1,0 +1,14 @@
+.sectionBG-up-down{
+
+	background: rgb(245,245,245);
+	background: linear-gradient(0deg, rgba(245,245,245,1) 0%, rgba(45,154,253,1) 99%);
+
+}
+
+.sectionBG-down-up{
+
+	background: rgb(245,245,245);
+	background: linear-gradient(180deg, rgba(245,245,245,1) 0%, rgba(45,154,253,1) 99%);
+
+
+}
